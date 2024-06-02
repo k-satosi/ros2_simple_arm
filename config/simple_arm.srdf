@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<robot name="simple_arm">
+  <group name="arm">
+    <chain base_link="link0" tip_link="tool_link"/>
+  </group>
+</robot>
